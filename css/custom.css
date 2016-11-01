@@ -1,0 +1,46 @@
+nav{
+  padding: 0 20px;
+}
+
+nav.white, footer.teal{
+  background-color: #1565C0 !important;
+}
+
+.footer-copyright{
+  background-color: #0D47A1 !important;
+}
+
+nav ul a, nav .brand-logo{
+  color: #FFFFFF;
+}
+
+.teal-text.text-lighten-2 {
+  color: #FFFFFF !important;
+}
+
+.teal.lighten-1{
+  background-color: #FF4081 !important;
+}
+
+nav ul > li > a{
+  padding: 0;
+}
+
+.nav-wrapper.container{
+  max-width: 1390px;
+  width: 100%;
+}
+
+.icon-block h2.center.brown-text, .icon-block h5{
+  display: inline;
+  color: #FF4081 !important;
+}
+
+.icon-block .material-icons {
+  vertical-align: text-bottom;
+  text-align: left;
+}
+
+ul:not(.browser-default) {
+    padding-left: 20px;
+}
